@@ -1,0 +1,168 @@
+{
+  "interactions": [
+    {
+      "physician_id": "dr1",
+      "entries": [
+        {
+          "date": "2026-03-05",
+          "rep": "Jake Mitchell",
+          "type": "in-person",
+          "notes": "Dr. Chen expressed strong interest in expanding NGS testing for her NSCLC patients. Currently using Foundation Medicine CDx. Main concern: turnaround time. She said FMI delivers in 10 days and she can't risk delays for stage IV patients starting on first-line therapy. Wants data on Tempus TAT. Also asked about Tempus One — seemed interested in AI-assisted report interpretation. Follow up with TAT benchmarks."
+        },
+        {
+          "date": "2026-02-10",
+          "rep": "Jake Mitchell",
+          "type": "email",
+          "notes": "Sent Dr. Chen the dual tissue+liquid biopsy white paper. No response yet."
+        }
+      ]
+    },
+    {
+      "physician_id": "dr2",
+      "entries": [
+        {
+          "date": "2026-04-21",
+          "rep": "Jake Mitchell",
+          "type": "in-person",
+          "notes": "**Date:** 2026-04-21  \n**Physician:** Dr. James Okafor (Pathology / Molecular Oncology)  \n**Account:** Midwest Regional Cancer Center  \n\n**Key Topics:** Overview of Tempus test portfolio, clinical utility of xT CDx panel, use of NGS data in clinical trial matching, introduction to Tempus One AI assistant for genomic interpretation.  \n\n**Objection & Response:** Dr. Okafor expressed being overwhelmed by the number of available tests. Addressed by emphasizing clinical value—96% of patients matched to trials when clinical data is combined with xT CDx NGS—and offering tailored guidance based on patient population. Introduced Tempus One to streamline decision-making.  \n\n**Sentiment:** Warm — engaged in discussion, open to follow-up.  \n\n**Follow-Up:** Schedule dedicated session to align testing options with specific clinical workflows and patient needs; include demo of Tempus One.  \n\n**New Info:** Dr. Okafor is actively involved in molecular tumor board and clinical trial enrollment, indicating high influence in test selection and utilization."
+        },
+        {
+          "date": "2026-03-01",
+          "rep": "Jake Mitchell",
+          "type": "in-person",
+          "notes": "Met with Dr. Okafor at the lab. He's the gatekeeper for any new lab vendor at Midwest Regional. Very technically rigorous — asked detailed questions about xT validation concordance vs FMI, false positive rates, variant calling pipeline. Gave him the Beaubier et al. Nature Biotech paper. He was impressed by tumor+normal approach for reducing germline contamination. Needs to see our CLIA/CAP inspection results. Key blocker: institutional inertia — they've been with FMI for 3 years and switching has real workflow costs."
+        }
+      ]
+    },
+    {
+      "physician_id": "dr3",
+      "entries": [
+        {
+          "date": "2026-04-01",
+          "rep": "Sandra Park",
+          "type": "in-person",
+          "notes": "Dr. Gutierrez is already ordering xT CDx for her CRC patients. Very happy with the CDx companion diagnostic claims. Wants to expand to pancreatic patients — asked about PurIST subtyping. Also interested in adding liquid biopsy (xF) for her patients on targeted therapy to monitor resistance. This is an upsell opportunity. She mentioned budget approval happens in Q3."
+        },
+        {
+          "date": "2026-03-15",
+          "rep": "Sandra Park",
+          "type": "phone",
+          "notes": "Quick check-in. Dr. Gutierrez mentioned she referred two colleagues at Sunbelt to look into Tempus. Great advocate."
+        }
+      ]
+    },
+    {
+      "physician_id": "dr4",
+      "entries": [
+        {
+          "date": "2026-03-20",
+          "rep": "Sandra Park",
+          "type": "phone",
+          "notes": "Cold outreach to Dr. Kim. Brief conversation. He's skeptical about NGS for heme malignancies — thinks flow cytometry and FISH cover most of his needs. Doesn't see the value of 648-gene panel for leukemia/lymphoma. Need to position xT Heme specifically and share heme-specific case studies."
+        }
+      ]
+    },
+    {
+      "physician_id": "dr5",
+      "entries": [
+        {
+          "date": "2026-01-15",
+          "rep": "Amanda Liu",
+          "type": "in-person",
+          "notes": "Dr. Westbrook is a power user — orders xT CDx and xR on virtually all her thoracic patients. High volume, very satisfied. She presented Tempus data at ASCO last year. Haven't visited in 3 months though. Risk of competitor poaching — Guardant has been aggressive in Boston. Need to schedule a touchpoint and discuss xF+ for her resistance monitoring workflow."
+        }
+      ]
+    },
+    {
+      "physician_id": "dr6",
+      "entries": [
+        {
+          "date": "2026-02-28",
+          "rep": "Amanda Liu",
+          "type": "email",
+          "notes": "Dr. Kapoor responded to my email about p-MSI for prostate cancer. Very interested — he has a large prostate cohort and currently sends out separate MSI testing. The idea of getting MSI prediction from H&E slides he already has is appealing. Wants a demo of the digital pathology workflow. Scheduled for April."
+        }
+      ]
+    },
+    {
+      "physician_id": "dr7",
+      "entries": [
+        {
+          "date": "2025-10-10",
+          "rep": "Chris Donovan",
+          "type": "in-person",
+          "notes": "Dr. Nakamura runs a small but focused breast oncology practice. Currently using Myriad for germline (BRACAnalysis) and Guardant for liquid biopsy. Main objection: she doesn't see why she'd switch from two vendors she knows to one she doesn't. Also concerned about patient billing — several patients at her practice are uninsured or on Medicaid. Need to lead with financial assistance program and the convenience of single-vendor consolidation."
+        }
+      ]
+    },
+    {
+      "physician_id": "dr8",
+      "entries": [
+        {
+          "date": "2026-04-21",
+          "rep": "Jake Mitchell",
+          "type": "in-person",
+          "notes": "**Date:** 2026-04-21  \n**Physician:** Dr. Michael Torres, Medical Oncology (Multi-tumor)  \n**Account:** Southeast Regional Health System  \n\n**Key Topics Discussed:** Introduction to Tempus xT CDx test, clinical utility in identifying trial-eligible patients, cost-effectiveness data, and integration into multi-tumor workflows.  \n\n**Objection & Response:** Dr. Torres raised cost concerns from the CFO. Addressed by highlighting that 96% of patients matched to trials via xT CDx, leading to potential system-wide cost savings through optimized treatment and trial enrollment. Offered collaboration on financial assistance pathways.  \n\n**Sentiment:** Warm — engaged in discussion, asked about trial matching process, open to next steps.  \n\n**Follow-Up Actions:** Send trial matching case studies and cost-benefit summary; schedule follow-up with Dr. Torres and health system reimbursement lead.  \n\n**New Information:** Dr. Torres is a key influencer in molecular testing adoption at Southeast; system is evaluating centralized genomic testing protocols. No current Tempus integration, but interest in streamlining trial enrollment."
+        },
+        {
+          "date": "2026-04-21",
+          "rep": "Jake Mitchell",
+          "type": "in-person",
+          "notes": "**Date:** 2026-04-21  \n**Physician:** Dr. Michael Torres, Medical Oncology (Multi-tumor)  \n**Account:** Southeast Regional Health System  \n\n**Key Topics:** Value proposition of Tempus xT CDx 648-gene panel, clinical utility, cost-effectiveness, financial assistance program.  \n\n**Objections & Responses:**  \n- **Objection:** CFO concerned about cost.  \n- **Response:** Highlighted 88.6% biologically relevant alteration detection rate (Tempus data), potential to reduce long-term costs via precision treatment, and availability of financial assistance for all U.S. patients regardless of insurance.  \n\n**Sentiment:** Warm — engaged in discussion, asked clarifying questions about program logistics.  \n\n**Follow-Up Actions:**  \n- Send CFO-facing value dossier and case studies on cost savings.  \n- Schedule follow-up with Dr. Torres and health system finance lead.  \n\n**New Information:** Dr. Torres is a key influencer in molecular testing adoption within the system and is supportive of integrating comprehensive genomic profiling, pending financial justification."
+        },
+        {
+          "date": "2026-04-21",
+          "rep": "Jake Mitchell",
+          "type": "in-person",
+          "notes": "**Date:** 2026-04-21  \n**Physician:** Dr. Michael Torres, Medical Oncology (Multi-tumor)  \n**Account:** Southeast Regional Health System  \n\n**Key Topics Discussed:** Introduced Tempus xT comprehensive genomic profiling (CGP); highlighted clinical utility in guiding targeted therapy across tumor types and integration with electronic health records.  \n\n**Objection & Response:** Dr. Torres raised cost concerns from the CFO. Responded with JCO 2020 data showing 30% reduction in treatment costs with CGP and emphasized Tempus’s 100% patient access via financial assistance programs. Offered collaboration with finance team.  \n\n**Sentiment:** Warm — engaged in discussion, asked about implementation logistics, and acknowledged value in cost-saving data.  \n\n**Follow-Up Actions:** Send JCO study and payer support documentation; schedule follow-up with Dr. Torres and health system CFO to discuss economic case and onboarding process.  \n\n**New Information:** Dr. Torres is a key influencer in molecular tumor board decisions; health system is evaluating centralized genomic testing protocols. No current CGP contract in place."
+        },
+        {
+          "date": "2026-04-21",
+          "rep": "Jake Mitchell",
+          "type": "in-person",
+          "notes": "**Date:** 2026-04-21  \n**Physician:** Dr. Michael Torres, Medical Oncology (Multi-tumor)  \n**Account:** Southeast Regional Health System  \n\n**Key Topics Discussed:** Introduction to Tempus’ NGS and clinical trial matching capabilities; cost-effectiveness and reimbursement support.  \n\n**Objections & Responses:**  \n- **Objection:** CFO concerned about cost.  \n  **Response:** Highlighted that 96% of patients are matched to clinical trials using Tempus’ combined clinical + NGS data, reducing overall treatment costs. Offered to explore cost-saving and reimbursement pathways.  \n\n**Sentiment:** Warm — engaged in discussion, asked about implementation logistics, open to next steps.  \n\n**Follow-Up Actions:**  \n- Send detailed case studies on cost savings and trial matching success.  \n- Schedule follow-up with Dr. Torres and health system reimbursement lead.  \n\n**New Insights:** Dr. Torres is a key influencer in molecular testing decisions; health system is evaluating centralized precision medicine protocols. CFO involvement indicates need for value-based evidence."
+        },
+        {
+          "date": "2026-04-21",
+          "rep": "Jake Mitchell",
+          "type": "in-person",
+          "notes": "**Date:** 2026-04-21  \n**Physician:** Dr. Michael Torres, Medical Oncology (Multi-tumor)  \n**Account:** Southeast Regional Health System  \n\n**Key Topics Discussed:** Introduction to Tempus xT CDx test, clinical utility in identifying actionable alterations (88.6% detection rate), and potential for cost savings through precision medicine.  \n\n**Objections & Responses:**  \n- **Objection:** CFO concerned about cost.  \n- **Response:** Acknowledged concern; presented data on improved outcomes and long-term cost reduction (20–30% potential savings per Tempus Oncology Economics Study); reframed test as cost-saving investment. Offered financial deep-dive with Tempus team.  \n\n**Sentiment:** Warm — engaged in discussion, open to further financial review.  \n\n**Follow-Up Actions:** Schedule meeting with Tempus financial representative and Dr. Torres/CFO to review cost-benefit analysis and provide customized proposal.  \n\n**New Information:** Dr. Torres values data-driven, cost-conscious solutions; CFO involvement is critical for adoption. Practice is exploring precision medicine integration to improve outcomes and efficiency.  \n\n(Word count: 149)"
+        },
+        {
+          "date": "2026-03-22",
+          "rep": "Dani Reeves",
+          "type": "in-person",
+          "notes": "Dr. Torres is VP Oncology and has purchasing authority. Southeast Regional currently uses xF only (liquid biopsy). He wants to see a business case for adding tissue-based testing (xT CDx). His concern: cost justification to the hospital CFO. He asked for ROI data — specifically, how many more patients get matched to trials (and the downstream revenue from trial enrollment). Also wants to understand the complementary value of tissue+liquid vs liquid alone. Great opportunity — this could be a 6-figure annual contract expansion."
+        },
+        {
+          "date": "2026-03-10",
+          "rep": "Dani Reeves",
+          "type": "phone",
+          "notes": "Prepped Dr. Torres for his presentation to hospital leadership about expanding precision medicine. Sent him the 9% unique actionable alterations stat from dual testing. He used it in his slides."
+        }
+      ]
+    },
+    {
+      "physician_id": "dr9",
+      "entries": [
+        {
+          "date": "2026-03-28",
+          "rep": "Dani Reeves",
+          "type": "in-person",
+          "notes": "Dr. Huang is interested in HRD testing for her ovarian cancer patients. Currently sends HRD to Myriad (myChoice CDx). Wants to know if Tempus HRD is comparable and if she can bundle it with xT CDx to simplify ordering. Also asked about FOLR1 testing for mirvetuximab eligibility. She's an early adopter — could champion Tempus internally at Southeast Regional."
+        }
+      ]
+    },
+    {
+      "physician_id": "dr10",
+      "entries": [
+        {
+          "date": "2026-04-05",
+          "rep": "Dani Reeves",
+          "type": "in-person",
+          "notes": "Dr. Okonkwo treats glioma/GBM patients. Currently orders MGMT methylation and 1p/19q separately from a local reference lab. Interested in consolidating to xT CDx + algorithmic add-ons. His concern: sample volume — glioma biopsies are often very small and he worries about tissue sufficiency for a 648-gene panel. Need to share our minimum input requirements and re-extraction success rates. He also asked about Tempus TO (tumor organoid) for drug sensitivity testing on his GBM patients."
+        }
+      ]
+    }
+  ]
+}

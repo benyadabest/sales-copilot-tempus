@@ -1,0 +1,155 @@
+{
+  "providers": [
+    {
+      "id": "p1",
+      "name": "Midwest Regional Cancer Center",
+      "city": "Chicago, IL",
+      "system_size": "large",
+      "annual_oncology_volume": 4200,
+      "current_tempus_testing": false,
+      "competitor_lab": "Foundation Medicine",
+      "last_contact_days_ago": 45,
+      "physicians": [
+        {
+          "id": "dr1",
+          "name": "Dr. Sarah Chen",
+          "title": "Chief Medical Officer",
+          "specialty": "Medical Oncology — NSCLC",
+          "estimated_eligible_patients_per_month": 85,
+          "ngs_ordering_rate": 0.35,
+          "decision_maker": true
+        },
+        {
+          "id": "dr2",
+          "name": "Dr. James Okafor",
+          "title": "Director, Molecular Diagnostics",
+          "specialty": "Pathology / Molecular Oncology",
+          "estimated_eligible_patients_per_month": 0,
+          "ngs_ordering_rate": 0,
+          "decision_maker": true,
+          "notes": "Influences lab purchasing decisions. Technical evaluator."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Sunbelt Oncology Associates",
+      "city": "Houston, TX",
+      "system_size": "medium",
+      "annual_oncology_volume": 2800,
+      "current_tempus_testing": true,
+      "current_tests": ["xT CDx"],
+      "last_contact_days_ago": 12,
+      "physicians": [
+        {
+          "id": "dr3",
+          "name": "Dr. Maria Gutierrez",
+          "title": "Medical Oncologist",
+          "specialty": "GI Oncology — CRC, Pancreatic",
+          "estimated_eligible_patients_per_month": 60,
+          "ngs_ordering_rate": 0.70,
+          "decision_maker": false
+        },
+        {
+          "id": "dr4",
+          "name": "Dr. Robert Kim",
+          "title": "Hematologist-Oncologist",
+          "specialty": "Hematologic Malignancies",
+          "estimated_eligible_patients_per_month": 40,
+          "ngs_ordering_rate": 0.20,
+          "decision_maker": false
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "Northeast Academic Medical Center",
+      "city": "Boston, MA",
+      "system_size": "large",
+      "annual_oncology_volume": 6500,
+      "current_tempus_testing": true,
+      "current_tests": ["xT CDx", "xR"],
+      "last_contact_days_ago": 90,
+      "physicians": [
+        {
+          "id": "dr5",
+          "name": "Dr. Emily Westbrook",
+          "title": "Division Chief, Thoracic Oncology",
+          "specialty": "Thoracic Oncology — NSCLC, SCLC",
+          "estimated_eligible_patients_per_month": 110,
+          "ngs_ordering_rate": 0.85,
+          "decision_maker": true
+        },
+        {
+          "id": "dr6",
+          "name": "Dr. Anil Kapoor",
+          "title": "Associate Professor, GU Oncology",
+          "specialty": "Genitourinary Oncology — Prostate, Bladder",
+          "estimated_eligible_patients_per_month": 55,
+          "ngs_ordering_rate": 0.45,
+          "decision_maker": false
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "Pacific Coast Community Oncology",
+      "city": "Portland, OR",
+      "system_size": "small",
+      "annual_oncology_volume": 1100,
+      "current_tempus_testing": false,
+      "competitor_lab": "Guardant Health",
+      "last_contact_days_ago": 200,
+      "physicians": [
+        {
+          "id": "dr7",
+          "name": "Dr. Lisa Nakamura",
+          "title": "Medical Director",
+          "specialty": "Breast Oncology",
+          "estimated_eligible_patients_per_month": 30,
+          "ngs_ordering_rate": 0.25,
+          "decision_maker": true
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "name": "Southeast Regional Health System",
+      "city": "Atlanta, GA",
+      "system_size": "large",
+      "annual_oncology_volume": 5100,
+      "current_tempus_testing": true,
+      "current_tests": ["xF"],
+      "last_contact_days_ago": 30,
+      "physicians": [
+        {
+          "id": "dr8",
+          "name": "Dr. Michael Torres",
+          "title": "VP Oncology Services",
+          "specialty": "Medical Oncology — Multi-tumor",
+          "estimated_eligible_patients_per_month": 95,
+          "ngs_ordering_rate": 0.55,
+          "decision_maker": true
+        },
+        {
+          "id": "dr9",
+          "name": "Dr. Patricia Huang",
+          "title": "Gynecologic Oncologist",
+          "specialty": "GYN Oncology — Ovarian, Endometrial",
+          "estimated_eligible_patients_per_month": 35,
+          "ngs_ordering_rate": 0.60,
+          "decision_maker": false
+        },
+        {
+          "id": "dr10",
+          "name": "Dr. David Okonkwo",
+          "title": "Neuro-Oncologist",
+          "specialty": "Neuro-Oncology — Glioma, GBM",
+          "estimated_eligible_patients_per_month": 20,
+          "ngs_ordering_rate": 0.40,
+          "decision_maker": false
+        }
+      ]
+    }
+  ]
+}
