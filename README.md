@@ -31,7 +31,7 @@ Open [http://localhost:3000](http://localhost:3000). The app works fully offline
 ### Environment Variables
 
 - `CEREBRAS_API_KEY` (optional): API key for live LLM completions. Without it, all responses are deterministic stubs.
-- `CEREBRAS_STUB=1` (optional): Force stub mode even with a key present.                        |
+- `CEREBRAS_STUB=1` (optional): Force stub mode even with a key present.
 
 ## Project Layout
 
